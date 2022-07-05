@@ -166,3 +166,66 @@ span {
 
 
 /* my recipie ends */
+
+
+
+/* pole area starts */
+.pole-area {
+    width: 90%;
+    margin: 150px auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.poles {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.poles h3 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.poles p {
+    text-align: center;
+
+}
+
+.pole1 {
+    margin: auto;
+    width: 20%;
+
+}
+
+.pole2 {
+    width: 20%;
+    margin: auto;
+}
+
+.pole3 {
+    text-align: center;
+    width: 20%;
+    margin: auto;
+}
+
+
+/* pole area ends */
+
+
+
+/* footer area starts  */
+footer {
+    background-color: rgb(29, 27, 27);
+    text-align: center;
+    min-height: 30vh;
+    padding-top: 50px;
+    color: white;
+}
+
+footer p {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+/* footer area ends  */
