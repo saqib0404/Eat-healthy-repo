@@ -1,0 +1,55 @@
+/* Common codes starts*/
+h1 {
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 50px;
+}
+
+p {
+    margin-bottom: 50px;
+    font-family: 'Headland One', serif;
+    font-size: 20px;
+    text-align: justify;
+    opacity: 0.8;
+}
+
+span {
+    color: rgb(235, 65, 65);
+}
+
+.cmn-btn {
+    font-size: 20px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(247, 77, 77), rgb(241, 50, 50), rgb(245, 24, 24), rgb(241, 8, 8));
+    padding: 20px 40px;
+    color: white;
+    border-radius: 50px;
+}
+
+/* Common codes ends */
+
+
+
+/* banner-section-starts */
+.banner-section {
+    display: flex;
+}
+
+.banner-txt {
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.banner-img {
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.banner-img img {
+    width: 70%;
+}
+
+/* banner-section-endss */
